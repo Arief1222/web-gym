@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "FAT LOSS & BODY TONING",
+    "desc": "Cocok untuk kamu yang ingin membakar lemak, membentuk otot dan menurunkan berat badan.",
+    "image": "/assets/personalTraining/fatlose.png"
+  },
+  {
+    "id": 2,
+    "title": "MUSCLE BUILDING & STRENGT",
+    "desc": "Latihan intensif untuk meningkatkan kekuatan dan daya tahan tubuh.",
+    "image": "/assets/personalTraining/injury.png"
+  },
+  {
+    "id": 3,
+    "title": "POST-INJURY & REHABILITATION",
+    "desc": "Latihan intensif untuk meningkatkan kekuatan dan daya tahan tubuh.",
+    "image": "/assets/personalTraining/mobility.png"
+  },
+  {
+    "id": 4,
+    "title": "FUNCTIONAL & MOBILITY TRAINING",
+    "desc": "Latihan intensif untuk meningkatkan kekuatan dan daya tahan tubuh.",
+    "image": "/assets/personalTraining/muscle.png"
+  },
+  {
+    "id": 5,
+    "title": "PRE/POST-NATAL TRAINING",
+    "desc": "Latihan intensif untuk meningkatkan kekuatan dan daya tahan tubuh.",
+    "image": "/assets/personalTraining/pre-pos.png"
+  }
+]
