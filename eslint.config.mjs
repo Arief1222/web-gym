@@ -93,7 +93,7 @@ export default defineConfig([globalIgnores([
         "react-hooks/exhaustive-deps": "off",
         "jsx-a11y/click-events-have-key-events": "warn",
         "jsx-a11y/interactive-supports-focus": "warn",
-        "prettier/prettier": "warn",
+        "prettier/prettier": "off",
         "no-unused-vars": "off",
         "unused-imports/no-unused-vars": "off",
         "unused-imports/no-unused-imports": "warn",
@@ -129,9 +129,9 @@ export default defineConfig([globalIgnores([
 
         "react/jsx-sort-props": ["warn", {
             callbacksLast: true,
-            shorthandFirst: true,
-            noSortAlphabetically: false,
-            reservedFirst: true,
+            shorthandFirst: flase,
+            noSortAlphabetically: true,
+            reservedFirst: false,
         }],
 
         "padding-line-between-statements": ["warn", {
